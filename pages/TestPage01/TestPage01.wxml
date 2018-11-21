@@ -1,0 +1,3 @@
+<!--pages/TestPage01/TestPage01.wxml-->
+<text>pages/TestPage01/TestPage01.wxml</text>
+<map id="map" longitude="{{myLongitude}}" latitude="{{myLatitude}}" scale="17" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;"></map>
